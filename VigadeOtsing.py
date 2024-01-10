@@ -24,6 +24,6 @@ r=input("Sisesta ringi raadiusi pikkus => ") #неправильно стоят 
 d=2*r #не было знака умножения
 print("Ringi labimoot", d) #не было запятой
 S=pi*r**2 
-print("Ringi pindala", round(S,2))
+print("Ringi pindala hjghdfgdjkghkjfffffffffffffffffffffff", round(S,2))#
 C=2*pi*r #не было запятой, лишние скобки
 print("Ringjoone pikkus", round(C,2)) #не было закрывающей скобки
