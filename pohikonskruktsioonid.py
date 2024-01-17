@@ -1,4 +1,3 @@
-
 # print("Tere maailm!")
 # nimi=input("Mis on sinu nimi?")
 # vanus=int(input("Kui vana sa oled?")) #kommentaar
