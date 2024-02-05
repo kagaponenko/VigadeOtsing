@@ -22,6 +22,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="in.py" />
+    <Compile Include="kontrolltoo.py" />
     <Compile Include="pohikonskruktsioonid.py" />
     <Compile Include="valik.py" />
     <Compile Include="VigadeOtsing.py" />

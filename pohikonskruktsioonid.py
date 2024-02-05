@@ -70,17 +70,6 @@
 # print("avg=",round(avg,2))
 
 
-from random import randint
-
-a1=randint(1,50)
-a2=randint(1,50)
-a3=randint(1,50)
-a4=randint(1,50)
-a5=randint(1,50)
-keskmine=(a1+a2+a3+a4+a5)/5
-print("Arvud=",round(avg,2)) #
-
-
 ##8
 # print("   @..@")
 # print("  (----)")
