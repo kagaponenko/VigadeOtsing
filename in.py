@@ -226,8 +226,8 @@
 
 
 
-#praktiline too
-#Ulesanne 1
+    #praktiline too
+    #Ulesanne 1
 # from datetime import *
 # from random import *
 # nimi=input("Palun sisesta oma nimi:")
@@ -235,7 +235,7 @@
 # for i in range(mitu):
 #     print(f"Ole tervitatu, {nimi}, {i+1}. korda.")
 
-#Ulesanne 1
+    #Ulesanne 1
 # from datetime import *
 # from random import *
 # sum_=0
@@ -306,103 +306,20 @@
 
 
 
-        #1
-# from datetime import *
-# from random import *
-# m=0
-# n=int(input("Любое число от 1 до 9: "))
-# while True:
-#     if 1<=n<=9:
-#         print("^---^".center(8))
-#         print("( o o )".center(8))
-#         print(" ! = !/)".center(8))
-#         m+=1
-#     if 1>n>9:
-#         break
-#     if m==n:
-#         break
-    
-        #2
-# from random import *
-# from random import randint
-# m=0
-# U=randint(1,5) #30
-# print ("В классе",U, "человек(а)")
-# G=[random.randit(1,5) for _ in range(U)]
-# m+=1
-#     if m==U:
-#     break
+# a=4
+# print("a=", a)
+# b=2
+# print("b=", b)
+# b=a/(2*b)
+# print("b=", b)
+# a=3*b+2*a
+# print("a=", a)
 
-# arv1=int(input("arv1: "))
-# # arv2=int(input("arv2: "))
-# # arv3=int(input("arv3: "))
-# # arv4=int(input("arv4: "))
-# # arv5=int(input("arv5: "))
-# # keskmine=(arv1+arv2+arv3+arv4+arv5)/5
-# # print("avg=",round(avg,2))
-
-
-# from random import randint
-
-# a1=randint(1,50)
-# a2=randint(1,50)
-# a3=randint(1,50)
-# a4=randint(1,50)
-# a5=randint(1,50)
-# keskmine=(a1+a2+a3+a4+a5)/5
-
-# # O=randint(1,5)
-
-
-    #31 for, while(True)
-print("vaariant for")
-from random import *
-K=randint(1,100)
-M=randint(1,10)
-s=0
-p=0
-print("у губки боба всего",K, "котлет(ы)")
-print("на одну сковородку помещается",M, "котлет(ы)")
-for b in range(0,K):
-    s+=1
-    if(s==M):
-        p+=1
-        s=0
-print("надо пожарить",p, "полных сковородок")
-print("на последней сковородке останится дожарить",p, "котлет(ы)")
-
-# print("vaariant while")
-# from random import *
-# K=randint(1,100)
-# M=randint(1,10)
-# s=0
-# p=0
-# print("у губки боба всего",K, "котлет(ы)")
-# print("на одну сковородку помещается",M, "котлет(ы)")
-# while(K>0):
-#     K-=1
-#     s+=1
-#     if(s==M):
-#         p+=1
-#         s=0
-# print("надо пожарить",p, "полных сковородок")
-# print("на последней сковородке останится дожарить",p, "котлет(ы)")
-
-# print("vaariant while True")
-# from random import *
-# K=randint(1,100)
-# M=randint(1,10)
-# s=0
-# p=0
-# print("у губки боба всего",K, "котлет(ы)")
-# print("на одну сковородку помещается",M, "котлет(ы)")
-# while True:
-#     K-=1
-#     s+=1
-#     if(s==M):
-#         p+=1
-#         s=0
-#     if(K==0):
-#         break
-# print("надо пожарить",p, "полных сковородок")
-# print("на последней сковородке останится дожарить",p, "котлет(ы)")
+x=17
+print("x=", x)
+y=23
+print("y=", y)
+y=x+y+1
+print("y=", y)
+x=y+x
+print("x=", x)

@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>054e373f-2a5d-4754-942a-86f1a76e2cde</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>in.py</StartupFile>
+    <StartupFile>valik.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
